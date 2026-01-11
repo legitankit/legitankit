@@ -11,10 +11,10 @@ I’m a passionate developer who loves building web applications and continuousl
 - 🛠 Building projects to strengthen concepts  
 - 📈 Constantly upgrading my skills  
 
-## 🧰 Tech Stack
+##🍀CORE ENTHUSIATICS
 - **Frontend:** HTML, CSS, JavaScript  
 - **Backend:** Node.js (learning & exploring)  
-- **Programming:** C, C++, Java  
+- **Programming:** C++
 - **Tools:** Git, GitHub  
 
 ## 🎯 Currently Focused On
