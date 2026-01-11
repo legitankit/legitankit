@@ -24,7 +24,12 @@ I’m a passionate developer who loves building web applications and continuousl
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/legit.ankit) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/legitankit) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chikupiku906@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/legit.ankit)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/legitankit)
+[![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?logo=telegram&logoColor=white)](https://t.me/legit)
+[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white)](https://github.com/legitankit)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chikupiku906@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/917654479930)
 
 ## 📊 GitHub Stats (Learning Phase)
 
