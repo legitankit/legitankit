@@ -47,6 +47,6 @@ I’m a passionate developer who loves building web applications and continuousl
 ---
 [![](https://visitcount.itsvg.in/api?id=legitankit&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<div align="center">
-  ![snake gif](https://github.com/legitankit/legitankit/blob/output/github-snake-dark.svg)
-</div>
+
+![snake gif](https://github.com/legitankit/legitankit/blob/output/github-snake-dark.svg)
+
