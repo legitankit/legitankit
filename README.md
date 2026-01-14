@@ -1,5 +1,6 @@
 # 💫 About Me:
-# 👋 Hi, I’m Ankit Raj  
+# 👋 Hi, I’m Ankit Raj
+![Ocean Snake](https://raw.githubusercontent.com/legitankit/legitankit/output/ocean.gif)
 
 🚀 **Full Stack Web Developer** | 📚 **DSA Learner**
 
@@ -48,5 +49,8 @@ I’m a passionate developer who loves building web applications and continuousl
 [![](https://visitcount.itsvg.in/api?id=legitankit&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-![snake gif](https://github.com/legitankit/legitankit/blob/output/github-snake-dark.svg)
+<div align="center">
+  
+  ![snake gif](https://github.com/legitankit/legitankit/blob/output/github-snake-dark.svg)
+</div>
 
