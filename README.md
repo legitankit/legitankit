@@ -121,7 +121,7 @@
 ![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=legitankit&theme=github_dark)
 ![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=legitankit&theme=github_dark)
 
-## 💬 Random Developer Quote
+## 💬 𝓓Ɛ𝓥 𝓠𝓤ටͲƐ
 ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <div align="center">
