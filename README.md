@@ -49,7 +49,7 @@
 
 𝙸’𝚖 𝚊 𝚙𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚠𝚑𝚘 𝚕𝚘𝚟𝚎𝚜 𝚋𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚠𝚎𝚋 𝚊𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗𝚜 𝚊𝚗𝚍 𝚌𝚘𝚗𝚝𝚒𝚗𝚞𝚘𝚞𝚜𝚕𝚢 𝚒𝚖𝚙𝚛𝚘𝚟𝚒𝚗𝚐 𝚙𝚛𝚘𝚋𝚕𝚎𝚖-𝚜𝚘𝚕𝚟𝚒𝚗𝚐 𝚜𝚔𝚒𝚕𝚕𝚜 𝚝𝚑𝚛𝚘𝚞𝚐𝚑 𝙳𝚊𝚝𝚊 𝚂𝚝𝚛𝚞𝚌𝚝𝚞𝚛𝚎𝚜 & 𝙰𝚕𝚐𝚘𝚛𝚒𝚝𝚑𝚖𝚜. 𝙸 𝚎𝚗𝚓𝚘𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚗𝚎𝚠 𝚝𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜 𝚊𝚗𝚍 𝚊𝚙𝚙𝚕𝚢𝚒𝚗𝚐 𝚝𝚑𝚎𝚖 𝚝𝚘 𝚛𝚎𝚊𝚕-𝚠𝚘𝚛𝚕𝚍 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜.
 
-## 📅 Contribution Stats
+## 📅 𝖢𝗈𝗇𝗍𝗋𝗂𝖻𝗎𝗍𝗂𝗈𝗇 𝖲𝗍𝖺𝗍𝗌
 ![GitHub Contributions](https://github-contribution-stats.vercel.app/api/?username=legitankit)
 
 ## 💻「ᏚᏦᏆᏞᏞᏚ & ᎢᎬᏟᎻᏁᎾᏞᎾᏀᏆᎬᏚ」❯❯❯❯
@@ -58,16 +58,16 @@
 - 🛠 Building projects to strengthen concepts  
 - 📈 Constantly upgrading my skills  
 
-## 📈 Activity Graph
+## 📈 𝖠𝖼𝗍𝗂𝗏𝗂𝗍𝗒 𝖦𝗋𝖺𝗉𝗁
 [![Ankit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=legitankit&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## 🍀𝒞𝒪𝑅𝐸 𝐸𝒩𝒯𝐻𝒰𝒮𝐼𝒜𝒯𝐼𝒞𝒮 ❯❯❯❯
+## 🍀𝖢𝖮𝖱𝖤 𝖤𝖭𝖳𝖧𝖴𝖲𝖨𝖠𝖲𝖳𝖨𝖢𝖲 ❯❯❯❯
 - **Frontend:** HTML, CSS, JavaScript  
 - **Backend:** Node.js (learning & exploring)  
 - **Programming:** C++
 - **Tools:** Git, GitHub  
 
-## 🎯『 CLS 』- 𝒞𝓊𝓇𝓇𝑒𝓃𝓉 𝐿𝑒𝒶𝓇𝓃𝒾𝓃𝑔 𝒮𝓉𝒶𝓉𝓊𝓈 ❯❯❯❯
+## 🎯『 CLS 』- 𝖢𝖴𝖱𝖱𝖤𝖭𝖳 𝖫𝖤𝖠𝖱𝖭𝖨𝖭𝖦 𝖲𝖳𝖠𝖳𝖴𝖲 ❯❯❯❯
 - Advanced JavaScript & Backend Development  
 - Data Structures & Algorithms  
 - Writing clean, efficient, and scalable code  
@@ -87,7 +87,7 @@
 </div>
 
 
-## 📊 GitHub Stats (Learning Phase)
+## 📊 𝖦𝗂𝗍𝖧𝗎𝖻 𝖲𝗍𝖺𝗍𝗌 (Learning Phase)
 
 - 🔥 Current Streak: **1 day**
 - 🏆 Longest Streak: **1 day**
@@ -116,12 +116,12 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=legitankit&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📝 Profile Summary
+## 📝 𝖯𝖱𝖮𝖥𝖨𝖫𝖤 𝖲𝖴𝖬𝖬𝖠𝖱𝖸
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=legitankit&theme=github_dark)
 ![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=legitankit&theme=github_dark)
 ![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=legitankit&theme=github_dark)
 
-## 💬 𝓓Ɛ𝓥 𝓠𝓤ටͲƐ
+## 💬 𝖣𝖤𝖵 𝖰𝖴𝖮𝖳𝖤
 ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <div align="center">
