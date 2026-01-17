@@ -136,6 +136,6 @@
   <img src="https://img.shields.io/badge/-♡-800080?style=flat-square" />
 </p>
 <p align="center">
-  © 2026 Ankit[AS] | All rights reserved 
+  © 2026 legitankit-Github [AS] | All rights reserved 
 </p>
 
