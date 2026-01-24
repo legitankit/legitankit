@@ -130,7 +130,6 @@
   ![snake gif](https://github.com/legitankit/legitankit/blob/output/github-snake.svg)
 </div>
 
-
 <p align="center">
   <img src="https://img.shields.io/badge/-Developer-006400?style=flat-square" />
   <img src="https://img.shields.io/badge/-by-8B4513?style=flat-square" />
