@@ -162,7 +162,7 @@
 </a>
    &nbsp;&nbsp;
   <a href="https://legitankit.github.io/Pinball/Pinball.htm">
-    <img src="https://img.shields.io/badge/PLAY-PINBALL-purple?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/PLAY-PINBALL-teal?style=for-the-badge" />
   </a>
 </p>
 </p>
