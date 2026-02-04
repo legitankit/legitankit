@@ -6,7 +6,7 @@
   <img src="https://i.imgur.com/yourBlinkingAnkit.gif" alt="Blinking Ankit" width="200" height="200" style="border-radius: 50%;"/>
 </p>
 
-# 💫 𝔸𝕓𝕠𝕦𝕥 𝕞𝕖 :) 👇
+# 💫 𝔸𝕓𝕠𝕦𝕥 𝕞𝕖 :) 👇 
 
 # &nbsp;&nbsp;&nbsp;&nbsp;👋 Hi, I’m 𓆰 ΛNKIT 𓆪 𓅓
 
@@ -129,6 +129,13 @@
   
   ![snake gif](https://github.com/legitankit/legitankit/blob/output/github-snake.svg)
 </div>
+
+<p align="center"><b>😕 me after coding at 2 AM 💀 😵‍💫💻</b></p>
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="240"/>
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="214"/>
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="380"/>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Developer-006400?style=flat-square" />
