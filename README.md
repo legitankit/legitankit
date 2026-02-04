@@ -160,6 +160,11 @@
 <a href="https://legitankit.github.io/vanilla-js-tetris/">
   <img src="https://img.shields.io/badge/PLAY-TETRIS-orange?style=for-the-badge" />
 </a>
+   &nbsp;&nbsp;
+  <a href="https://legitankit.github.io/Pinball/Pinball.htm">
+    <img src="https://img.shields.io/badge/PLAY-PINBALL-purple?style=for-the-badge" />
+  </a>
+</p>
 </p>
 
 <p align="center">
