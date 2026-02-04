@@ -160,6 +160,10 @@
   <a href="https://legitankit.github.io/FlapPyBird/">
     <img src="https://img.shields.io/badge/PLAY-FLAPPY%20BIRD-blue?style=for-the-badge" />
   </a>
+   &nbsp;&nbsp;
+     <a href="https://github.com/hoffhannisyan/javascript-tetris">
+    <img src="https://img.shields.io/badge/PLAY-TETRIS-orange?style=for-the-badge" />
+  </a>
 </p>
 
 <p align="center">
