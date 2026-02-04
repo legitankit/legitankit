@@ -139,6 +139,30 @@
 </p>
 
 <p align="center">
+  🚀 <b> BREAK TIME </b> ⏳🧠  
+  <br>
+  <em>take a break & play games 🎮✨</em>
+</p>
+
+<p align="center">
+  🔄🎮🔄
+</p>
+
+<p align="center">
+  <a href="https://legitankit.github.io/pacman/">
+    <img src="https://img.shields.io/badge/PLAY-PACMAN-yellow?style=for-the-badge" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://legitankit.github.io/Snake-JavaScript/">
+    <img src="https://img.shields.io/badge/PLAY-SNAKE-green?style=for-the-badge" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://legitankit.github.io/FlapPyBird/">
+    <img src="https://img.shields.io/badge/PLAY-FLAPPY%20BIRD-blue?style=for-the-badge" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/-Developer-006400?style=flat-square" />
   <img src="https://img.shields.io/badge/-by-8B4513?style=flat-square" />
   <img src="https://img.shields.io/badge/-♡-800080?style=flat-square" />
