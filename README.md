@@ -84,7 +84,6 @@
 [![](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:chikupiku906@gmail.com)
 [![](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/legitankit)
 [![](https://img.shields.io/badge/CodePen-1e90ff?style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/legitankit)
-[![](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/917654479930)
 [![](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/legitankit)
 [![](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/legit_ankit)
 
