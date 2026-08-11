@@ -136,6 +136,18 @@
 </picture>
 </div>
 
+
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/legitankit/legitankit/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/legitankit/legitankit/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/legitankit/legitankit/output/pacman-contribution-graph.svg">
+
+</picture>
+
+
+
+
 <p align="center"><b>😕 me after coding at 2 AM 💀 😵‍💫💻</b></p>
 <p align="center">
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="240"/>
