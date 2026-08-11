@@ -129,7 +129,7 @@
 
 <div align="center">
   
-  ![snake gif](https://github.com/legitankit/legitankit/blob/output/github-snake-dark.svg)
+  ![snake gif](https://github.com/legitankit/legitankit/blob/output/github-snake.svg)
 </div>
 
 
