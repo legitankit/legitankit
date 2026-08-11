@@ -8,7 +8,7 @@
 
 # 💫 𝔸𝕓𝕠𝕦𝕥 𝕞𝕖 :) 👇 
 
-# &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50"> Hi, I’m 𓆰 ΛNKIT 𓆪 𓅓
+# &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/abhinit21/abhinit21/main/emojis/wave.gif" width="20"> Hi, I’m 𓆰 ΛNKIT 𓆪 𓅓
 
 
 <!-- ## 🏆 GitHub Trophies
