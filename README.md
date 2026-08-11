@@ -129,7 +129,13 @@
 
 <div align="center">
   
-  ![snake gif](https://github.com/legitankit/legitankit/blob/output/github-snake.svg)
+  ## My Contribution Graph
+<!-- [game-name] -->
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/legitankit/legitankit/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/legitankit/legitankit/output/pacman-contribution-graph.svg">
+    <img alt="[game-name] contribution graph" src="https://raw.githubusercontent.com/legitankit/legitankit/output/pacman-contribution-graph.svg">
+</picture>
 </div>
 
 <p align="center"><b>😕 me after coding at 2 AM 💀 😵‍💫💻</b></p>
