@@ -128,8 +128,6 @@
 ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <div align="center">
-  
-  ## My Contribution Graph
 <!-- [game-name] -->
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/legitankit/legitankit/output/pacman-contribution-graph-dark.svg">
