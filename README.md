@@ -128,6 +128,7 @@
 ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <div align="center">
+   
   ![snake gif](https://github.com/legitankit/legitankit/blob/output/github-snake.svg)
 </div>
 
