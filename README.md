@@ -128,7 +128,8 @@
 ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <div align="center">
-   ## My Contribution Graph
+  ![snake gif](https://github.com/legitankit/legitankit/blob/output/github-snake.svg)
+</div>
 
 <!-- [game-name] -->
 <picture>
@@ -136,9 +137,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/legitankit/legitankit/output/pacman-contribution-graph.svg">
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/legitankit/legitankit/output/pacman-contribution-graph.svg">
 </picture>
-  
-  ![snake gif](https://github.com/legitankit/legitankit/blob/output/github-snake.svg)
-</div>
 
 <p align="center"><b>😕 me after coding at 2 AM 💀 😵‍💫💻</b></p>
 <p align="center">
