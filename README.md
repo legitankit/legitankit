@@ -1,186 +1,116 @@
-<p align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=꧁𓊈𒆜✨+𝓦𝓮𝓵𝓬𝓸𝓶𝓮+𝓽𝓸+𝓶𝔂+𝓖𝓲𝓽𝓗𝓾𝓫+✨𒆜𓊉꧂" alt="Typing SVG" />
-</p>
-<p align="center">
-  <!-- Profile GIF/Image -->
-  <img src="https://i.imgur.com/yourBlinkingAnkit.gif" alt="Blinking Ankit" width="200" height="200" style="border-radius: 50%;"/>
-</p>
-
-# 💫 𝔸𝕓𝕠𝕦𝕥 𝕞𝕖 :) 👇 
-
-# &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/abhinit21/abhinit21/main/emojis/wave.gif" width="35"> Hi, I’m 𓆰 ΛNKIT 𓆪 𓅓
-
-
-<!-- ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=legitankit&theme=radical&no-frame=true&no-bg=true&margin-w=4)
- -->
-
-<!-- ## 📊 Detailed GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=legitankit&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=legitankit&layout=compact&theme=radical&langs_count=8)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=legitankit&theme=radical&hide_border=true) -->
-
-
-<!-- wakatime to be added -->
-
-
-<!--
-## ⚔️ LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/your-leetcode-username?theme=dark&font=baloo)
-
-## ⚔️ Codeforces Stats
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=your-codeforces-handle&theme=github_dark)
--->
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=legitankit&label=Profile%20Views&color=0e75b6&style=flat" alt="legitankit" />
-  <img src="https://img.shields.io/github/followers/legitankit?label=Followers&style=social" alt="Followers">
-  <img src="https://img.shields.io/github/stars/legitankit?label=Stars&style=social" alt="Stars">
-</p>
-
-<div align="center" >
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=100&color=00BFFF&center=true&vCenter=true&width=800&lines=🚀+Full+Stack+Web+Developer+%7C+📚+DSA+Learner" alt="Typing SVG"/>
-</div>
-
-<div align="center">
-  
-  ![snake gif](https://github.com/legitankit/legitankit/blob/output/github-snake-dark.svg)
-</div>
-
-𝙸’𝚖 𝚊 𝚙𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚠𝚑𝚘 𝚕𝚘𝚟𝚎𝚜 𝚋𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚠𝚎𝚋 𝚊𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗𝚜 𝚊𝚗𝚍 𝚌𝚘𝚗𝚝𝚒𝚗𝚞𝚘𝚞𝚜𝚕𝚢 𝚒𝚖𝚙𝚛𝚘𝚟𝚒𝚗𝚐 𝚙𝚛𝚘𝚋𝚕𝚎𝚖-𝚜𝚘𝚕𝚟𝚒𝚗𝚐 𝚜𝚔𝚒𝚕𝚕𝚜 𝚝𝚑𝚛𝚘𝚞𝚐𝚑 𝙳𝚊𝚝𝚊 𝚂𝚝𝚛𝚞𝚌𝚝𝚞𝚛𝚎𝚜 & 𝙰𝚕𝚐𝚘𝚛𝚒𝚝𝚑𝚖𝚜. 𝙸 𝚎𝚗𝚓𝚘𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚗𝚎𝚠 𝚝𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜 𝚊𝚗𝚍 𝚊𝚙𝚙𝚕𝚢𝚒𝚗𝚐 𝚝𝚑𝚎𝚖 𝚝𝚘 𝚛𝚎𝚊𝚕-𝚠𝚘𝚛𝚕𝚍 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜.
-![CareGPT Image](https://raw.githubusercontent.com/WangRongsheng/CareGPT/refs/heads/main/assets/images/hx.png)
-
-## 📅「 𝖢𝖮𝖭𝖳𝖱𝖨𝖡𝖴𝖳𝖨𝖮𝖭 𝖲𝖳𝖠𝖳𝖲 」 ❯❯❯❯
-![GitHub Contributions](https://github-contribution-stats.vercel.app/api/?username=legitankit)
-
-## 💻「 𝖲𝖪𝖨𝖫𝖫𝖲 & 𝖳𝖤𝖢𝖧𝖭𝖮𝖫𝖮𝖦𝖨𝖤𝖲 」 ❯❯❯❯
-- 🌐 Full Stack Web Development  
-- 🧠 Learning & practicing DSA  
-- 🛠 Building projects to strengthen concepts  
-- 📈 Constantly upgrading my skills  
-
-## 📈「 𝖠𝖢𝖳𝖨𝖵𝖨𝖳𝖸 𝖦𝖱𝖠𝖯𝖧 」❯❯❯❯
-[![Ankit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=legitankit&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## 🍀「 𝖢𝖮𝖱𝖤 𝖤𝖭𝖳𝖧𝖴𝖲𝖨𝖠𝖲𝖳𝖨𝖢𝖲 」 ❯❯❯❯
-- **Frontend:** HTML, CSS, JavaScript  
-- **Backend:** Node.js (learning & exploring)  
-- **Programming:** C++
-- **Tools:** Git, GitHub  
-
-## 🎯 CLS -「 𝖢𝖴𝖱𝖱𝖤𝖭𝖳 𝖫𝖤𝖠𝖱𝖭𝖨𝖭𝖦 𝖲𝖳𝖠𝖳𝖴𝖲 」 ❯❯❯❯
-- Advanced JavaScript & Backend Development  
-- Data Structures & Algorithms  
-- Writing clean, efficient, and scalable code  
-
-
-## 🌐「 𝖬𝖤𝖲 𝖱É𝖲𝖤𝖠𝖴𝖷 𝖲𝖮𝖢𝖨𝖠𝖴𝖷 : 」 ❯❯❯❯
-
 <div align="center">
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/legitankit)
-[![](https://img.shields.io/badge/Instagram-FF0066?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/legit.ankit)
-[![](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:chikupiku906@gmail.com)
-[![](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/legitankit)
-[![](https://img.shields.io/badge/CodePen-1e90ff?style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/legitankit)
-[![](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/legitankit)
-[![](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/legit_ankit)
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · legitankit</sub></p>
+<h1>AS</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>M_a_coder_not_to_bother</p>
+<p><strong>● Building and sharing work in public</strong></p>
 
-
-</div>
-
-
-## 📊「 𝖦𝖨𝖳𝖧𝖴𝖡 𝖲𝖳𝖠𝖳𝖲 」( Learning Phase ) ❯❯❯❯
-
-- 🔥 Current Streak: **1 day**
-- 🏆 Longest Streak: **1 day**
-- 🧮 Total Contributions: **0**
-- 🚀 Status: *Just Started & Consistent*
-
-![Current Streak](https://img.shields.io/badge/Current%20Streak-1%20day-brightgreen)
-![Longest Streak](https://img.shields.io/badge/Longest%20Streak-1%20day-blue)
-![Contributions](https://img.shields.io/badge/Contributions-0-lightgrey)
-
-<p align="center">
-  <!-- Typing Animation with multiple lines -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=a883f2&center=true&vCenter=true&width=500&lines=𓄂🅷🅴🅻🅻🅾+🆆🅾🆁🅻🅳!;𐌉+𐌀𐌌+𐌀𐌍𐌊𐌉𐌕+𓃭;I+αм+α+∂єνєℓσρєя𓅛" alt="Typing SVG" />
-</p>
-
-```text
-████████╗███████╗ ██████╗ ██╗  ██╗   ███████╗████████╗ █████╗  ██████╗██╗  ██╗
-╚══██╔══╝██╔════╝██╔════╝██║  ██║   ██╔════╝╚══██╔══╝██╔══██╗██╔════╝██║ ██╔╝
-   ██║   █████╗  ██║     ███████║   ███████╗   ██║   ███████║██║     █████╔╝ 
-   ██║   ██╔══╝  ██║     ██╔══██║   ╚════██║   ██║   ██╔══██║██║     ██╔═██╗ 
-   ██║   ███████╗╚██████╗██║  ██║   ███████║   ██║   ██║  ██║╚██████╗██║  ██╗
-   ╚═╝   ╚══════╝ ╚═════╝╚═╝  ╚═╝   ╚══════╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝
-```
-
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/tailwind_css-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Mamba UI](https://img.shields.io/badge/Mamba%20UI-111827?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
----
-[![](https://visitcount.itsvg.in/api?id=legitankit&icon=0&color=0)](https://visitcount.itsvg.in)
-
-## 📝「 𝖯𝖱𝖮𝖥𝖨𝖫𝖤 𝖲𝖴𝖬𝖬𝖠𝖱𝖸 」 ❯❯❯❯
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=legitankit&theme=github_dark)
-![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=legitankit&theme=github_dark)
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=legitankit&theme=github_dark)
-
-## 💬「 𝖣𝖤𝖵 𝖰𝖴𝖮𝖳𝖤 」 ❯❯❯❯
-![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<div align="center">
-   
-  ![snake gif](https://github.com/legitankit/legitankit/blob/output/github-snake.svg)
-</div>
-
-<!-- [game-name] -->
+<p><a href="https://github.com/legitankit">GitHub</a> &nbsp;·&nbsp; <a href="https://x.com/legit_ankit">X</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/legitankit/legitankit/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/legitankit/legitankit/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/legitankit/legitankit/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=legitankit&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F82580634%3Fu%3D8812246663ef1423874cd0bd287e8cff521db4f9%26v%3D4&color=1&v=recruiter-portrait-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/portrait?username=legitankit&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F82580634%3Fu%3D8812246663ef1423874cd0bd287e8cff521db4f9%26v%3D4&color=1&v=recruiter-portrait-1&mode=dark" width="240px" alt="AS animated colored ASCII portrait" />
 </picture>
+</td>
+</tr>
+</table>
+</div>
 
-<p align="center"><b>😕 me after coding at 2 AM 💀 😵‍💫💻</b></p>
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="240"/>
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="214"/>
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="380"/>
-</p>
+<h2>What teams can evaluate quickly</h2>
 
-<p align="center">
-  🚀 <b> BREAK TIME </b> ⏳🧠  
-  <br>
-  <em>take a break & play games 🎮✨</em>
-</p>
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · HTML · JavaScript · CSS</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>12 repositories · 1 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>163 contributions · 38 active days</p></td>
+</tr>
+</table>
 
-<p align="center">
-  🔄🎮🔄
-</p>
+<p><sub>M_a_coder_not_to_bother</sub></p>
 
-<p align="center">
-  <a href="https://legitankit.github.io/pacman/">
-    <img src="https://img.shields.io/badge/PLAY-PACMAN-yellow?style=for-the-badge" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://legitankit.github.io/Snake-JavaScript/">
-    <img src="https://img.shields.io/badge/PLAY-SNAKE-green?style=for-the-badge" />
-  </a>
-  &nbsp;&nbsp;
-<a href="https://legitankit.github.io/vanilla-js-tetris/">
-  <img src="https://img.shields.io/badge/PLAY-TETRIS-orange?style=for-the-badge" />
-</a>
-   &nbsp;&nbsp;
-  <a href="https://legitankit.github.io/Pinball/Pinball.htm">
-    <img src="https://img.shields.io/badge/PLAY-PINBALL-teal?style=for-the-badge" />
-  </a>
-</p>
-</p>
+<h2>Proof at a glance</h2>
+
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>12</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>1</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>163</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>4</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Developer-006400?style=flat-square" />
-  <img src="https://img.shields.io/badge/-by-8B4513?style=flat-square" />
-  <img src="https://img.shields.io/badge/-♡-800080?style=flat-square" />
-</p>
-<p align="center">
-   legitankit-Github [AS] © 2026  | All rights reserved 
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=legitankit&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F82580634%3Fu%3D8812246663ef1423874cd0bd287e8cff521db4f9%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=legitankit&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F82580634%3Fu%3D8812246663ef1423874cd0bd287e8cff521db4f9%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="AS GitHub proof metrics" />
+</picture>
 </p>
 
+<h2>Selected work</h2>
+
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=legitankit&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F82580634%3Fu%3D8812246663ef1423874cd0bd287e8cff521db4f9%26v%3D4&repos=legitankit%2Flegitankit%2Clegitankit%2FBen10Project&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=legitankit&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F82580634%3Fu%3D8812246663ef1423874cd0bd287e8cff521db4f9%26v%3D4&repos=legitankit%2Flegitankit%2Clegitankit%2FBen10Project&v=recruiter-projects-1&mode=dark" width="100%" alt="AS selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/legitankit/legitankit">legitankit</a></h3>
+<p>Reach my LinkedIn</p>
+<p><sub>⭐ 1 · 🍴 0</sub></p>
+<p><a href="https://github.com/legitankit/legitankit">Read the repository →</a></p>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/legitankit/Ben10Project">Ben10Project</a></h3><p>A fan-made Ben 10 universe website showcasing Classic, Alien Force, Ultimate Alien, Omniverse and Reboot series with characters, aliens, villains and</p><p><sub>HTML · ⭐ 0</sub></p></td>
+</tr>
+</table>
+
+<h2>Technical toolkit</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=legitankit&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F82580634%3Fu%3D8812246663ef1423874cd0bd287e8cff521db4f9%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=legitankit&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F82580634%3Fu%3D8812246663ef1423874cd0bd287e8cff521db4f9%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="AS technology stack" />
+</picture>
+</p>
+
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>HTML</strong><br /><sub>76% of public code</sub></td>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>12% of public code</sub></td>
+<td width="20%" align="center"><strong>CSS</strong><br /><sub>11% of public code</sub></td>
+<td width="20%" align="center"><strong>EJS</strong><br /><sub>1% of public code</sub></td>
+<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>0% of public code</sub></td>
+</tr>
+</table>
+
+<h2>Consistency signal</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=legitankit&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F82580634%3Fu%3D8812246663ef1423874cd0bd287e8cff521db4f9%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=legitankit&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F82580634%3Fu%3D8812246663ef1423874cd0bd287e8cff521db4f9%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="AS contribution activity" />
+</picture>
+</p>
+
+<hr />
+
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/legitankit">GitHub</a><br /><a href="https://x.com/legit_ankit">X</a></td>
+</tr>
+</table>
+
+<p align="center"><sub>AS · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
