@@ -1,116 +1,18 @@
-<div align="center">
+# 💫 About Me:
+👨‍💻 About Me<br><br>I’m Ankit Raj, a B.Tech Computer Science Engineering student passionate about building software and solving problems.<br><br>* 💻 Currently focused on DSA & Software Development<br>* 🌐 Exploring Web Development & Full-Stack Development<br>* 🐍 Programming with Python, C, and C++<br>* 🚀 Building projects and learning by doing<br>* 🎯 Working towards becoming a strong Software Developer<br>* 📚 Always learning, improving, and building something new
 
-<table width="100%">
-<tr>
-<td width="64%" valign="middle">
-<p><sub>RECRUITER SIGNAL BRIEF · legitankit</sub></p>
-<h1>AS</h1>
-<h2>Frontend or full-stack engineer</h2>
-<p>M_a_coder_not_to_bother</p>
-<p><strong>● Building and sharing work in public</strong></p>
 
-<p><a href="https://github.com/legitankit">GitHub</a> &nbsp;·&nbsp; <a href="https://x.com/legit_ankit">X</a></p>
-</td>
-<td width="36%" valign="middle" align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=legitankit&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F82580634%3Fu%3D8812246663ef1423874cd0bd287e8cff521db4f9%26v%3D4&color=1&v=recruiter-portrait-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/portrait?username=legitankit&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F82580634%3Fu%3D8812246663ef1423874cd0bd287e8cff521db4f9%26v%3D4&color=1&v=recruiter-portrait-1&mode=dark" width="240px" alt="AS animated colored ASCII portrait" />
-</picture>
-</td>
-</tr>
-</table>
-</div>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/legitankitinsta) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/legitankitlinkden) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/legitankitx) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@legitankityt) 
 
-<h2>What teams can evaluate quickly</h2>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Rhinoceros](https://img.shields.io/badge/Rhinoceros-801010?style=for-the-badge&logo=rhinoceros&logoColor=white) ![Clip Studio Paint](https://img.shields.io/badge/ClipStudioPaint-%23CFD3D3.svg?style=for-the-badge&logo=ClipStudioPaint&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Gitea](https://img.shields.io/badge/Gitea-34495E?style=for-the-badge&logo=gitea&logoColor=5D9425) ![Apache Subversion](https://img.shields.io/badge/subversion-%23809CC9.svg?style=for-the-badge&logo=subversion&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Ubiquiti](https://img.shields.io/badge/ubiquiti-%230559C9.svg?style=for-the-badge&logo=ubiquiti&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) ![Bevy](https://img.shields.io/badge/bevy-%23232326.svg?style=for-the-badge&logo=bevy&logoColor=white) ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=legitankit&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=legitankit&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=legitankit&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · HTML · JavaScript · CSS</p></td>
-<td width="33%" valign="top"><h3>Public proof</h3><p>12 repositories · 1 stars</p></td>
-<td width="33%" valign="top"><h3>Momentum</h3><p>163 contributions · 38 active days</p></td>
-</tr>
-</table>
+---
+[![](https://komarev.com/ghpvc/?username=legitankit&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p><sub>M_a_coder_not_to_bother</sub></p>
-
-<h2>Proof at a glance</h2>
-
-<table width="100%">
-<tr>
-<td width="25%" align="center"><strong>12</strong><br /><sub>Repositories</sub></td>
-<td width="25%" align="center"><strong>1</strong><br /><sub>Stars</sub></td>
-<td width="25%" align="center"><strong>163</strong><br /><sub>Contributions</sub></td>
-<td width="25%" align="center"><strong>4</strong><br /><sub>Followers</sub></td>
-</tr>
-</table>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=legitankit&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F82580634%3Fu%3D8812246663ef1423874cd0bd287e8cff521db4f9%26v%3D4&v=recruiter-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=legitankit&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F82580634%3Fu%3D8812246663ef1423874cd0bd287e8cff521db4f9%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="AS GitHub proof metrics" />
-</picture>
-</p>
-
-<h2>Selected work</h2>
-
-<table width="100%">
-<tr>
-<td width="58%" valign="top">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=legitankit&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F82580634%3Fu%3D8812246663ef1423874cd0bd287e8cff521db4f9%26v%3D4&repos=legitankit%2Flegitankit%2Clegitankit%2FBen10Project&v=recruiter-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=legitankit&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F82580634%3Fu%3D8812246663ef1423874cd0bd287e8cff521db4f9%26v%3D4&repos=legitankit%2Flegitankit%2Clegitankit%2FBen10Project&v=recruiter-projects-1&mode=dark" width="100%" alt="AS selected projects" />
-</picture>
-</td>
-<td width="42%" valign="top">
-<h3><a href="https://github.com/legitankit/legitankit">legitankit</a></h3>
-<p>Reach my LinkedIn</p>
-<p><sub>⭐ 1 · 🍴 0</sub></p>
-<p><a href="https://github.com/legitankit/legitankit">Read the repository →</a></p>
-</td>
-</tr>
-</table>
-
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3><a href="https://github.com/legitankit/Ben10Project">Ben10Project</a></h3><p>A fan-made Ben 10 universe website showcasing Classic, Alien Force, Ultimate Alien, Omniverse and Reboot series with characters, aliens, villains and</p><p><sub>HTML · ⭐ 0</sub></p></td>
-</tr>
-</table>
-
-<h2>Technical toolkit</h2>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=legitankit&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F82580634%3Fu%3D8812246663ef1423874cd0bd287e8cff521db4f9%26v%3D4&v=recruiter-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=legitankit&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F82580634%3Fu%3D8812246663ef1423874cd0bd287e8cff521db4f9%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="AS technology stack" />
-</picture>
-</p>
-
-<table width="100%">
-<tr>
-<td width="20%" align="center"><strong>HTML</strong><br /><sub>76% of public code</sub></td>
-<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>12% of public code</sub></td>
-<td width="20%" align="center"><strong>CSS</strong><br /><sub>11% of public code</sub></td>
-<td width="20%" align="center"><strong>EJS</strong><br /><sub>1% of public code</sub></td>
-<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>0% of public code</sub></td>
-</tr>
-</table>
-
-<h2>Consistency signal</h2>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=legitankit&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F82580634%3Fu%3D8812246663ef1423874cd0bd287e8cff521db4f9%26v%3D4&v=recruiter-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=legitankit&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F82580634%3Fu%3D8812246663ef1423874cd0bd287e8cff521db4f9%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="AS contribution activity" />
-</picture>
-</p>
-
-<hr />
-
-<table width="100%">
-<tr>
-<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
-<td width="38%" valign="middle" align="right"><a href="https://github.com/legitankit">GitHub</a><br /><a href="https://x.com/legit_ankit">X</a></td>
-</tr>
-</table>
-
-<p align="center"><sub>AS · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
