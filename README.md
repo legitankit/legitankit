@@ -1,18 +1,186 @@
-# 💫 About Me:
-👨‍💻 About Me<br><br>I’m Ankit Raj, a B.Tech Computer Science Engineering student passionate about building software and solving problems.<br><br>* 💻 Currently focused on DSA & Software Development<br>* 🌐 Exploring Web Development & Full-Stack Development<br>* 🐍 Programming with Python, C, and C++<br>* 🚀 Building projects and learning by doing<br>* 🎯 Working towards becoming a strong Software Developer<br>* 📚 Always learning, improving, and building something new
+<p align="center">
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=꧁𓊈𒆜✨+𝓦𝓮𝓵𝓬𝓸𝓶𝓮+𝓽𝓸+𝓶𝔂+𝓖𝓲𝓽𝓗𝓾𝓫+✨𒆜𓊉꧂" alt="Typing SVG" />
+</p>
+<p align="center">
+  <!-- Profile GIF/Image -->
+  <img src="https://i.imgur.com/yourBlinkingAnkit.gif" alt="Blinking Ankit" width="200" height="200" style="border-radius: 50%;"/>
+</p>
+
+# 💫 𝔸𝕓𝕠𝕦𝕥 𝕞𝕖 :) 👇 
+
+# &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/abhinit21/abhinit21/main/emojis/wave.gif" width="35"> Hi, I’m 𓆰 ΛNKIT 𓆪 𓅓
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/legitankitinsta) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/legitankitlinkden) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/legitankitx) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@legitankityt) 
+<!-- ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=legitankit&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+ -->
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Rhinoceros](https://img.shields.io/badge/Rhinoceros-801010?style=for-the-badge&logo=rhinoceros&logoColor=white) ![Clip Studio Paint](https://img.shields.io/badge/ClipStudioPaint-%23CFD3D3.svg?style=for-the-badge&logo=ClipStudioPaint&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Gitea](https://img.shields.io/badge/Gitea-34495E?style=for-the-badge&logo=gitea&logoColor=5D9425) ![Apache Subversion](https://img.shields.io/badge/subversion-%23809CC9.svg?style=for-the-badge&logo=subversion&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Ubiquiti](https://img.shields.io/badge/ubiquiti-%230559C9.svg?style=for-the-badge&logo=ubiquiti&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) ![Bevy](https://img.shields.io/badge/bevy-%23232326.svg?style=for-the-badge&logo=bevy&logoColor=white) ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=legitankit&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=legitankit&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=legitankit&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- ## 📊 Detailed GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=legitankit&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=legitankit&layout=compact&theme=radical&langs_count=8)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=legitankit&theme=radical&hide_border=true) -->
 
+
+<!-- wakatime to be added -->
+
+
+<!--
+## ⚔️ LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/your-leetcode-username?theme=dark&font=baloo)
+
+## ⚔️ Codeforces Stats
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=your-codeforces-handle&theme=github_dark)
+-->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=legitankit&label=Profile%20Views&color=0e75b6&style=flat" alt="legitankit" />
+  <img src="https://img.shields.io/github/followers/legitankit?label=Followers&style=social" alt="Followers">
+  <img src="https://img.shields.io/github/stars/legitankit?label=Stars&style=social" alt="Stars">
+</p>
+
+<div align="center" >
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=100&color=00BFFF&center=true&vCenter=true&width=800&lines=🚀+Full+Stack+Web+Developer+%7C+📚+DSA+Learner" alt="Typing SVG"/>
+</div>
+
+<div align="center">
+  
+  ![snake gif](https://github.com/legitankit/legitankit/blob/output/github-snake-dark.svg)
+</div>
+
+𝙸’𝚖 𝚊 𝚙𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚠𝚑𝚘 𝚕𝚘𝚟𝚎𝚜 𝚋𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚠𝚎𝚋 𝚊𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗𝚜 𝚊𝚗𝚍 𝚌𝚘𝚗𝚝𝚒𝚗𝚞𝚘𝚞𝚜𝚕𝚢 𝚒𝚖𝚙𝚛𝚘𝚟𝚒𝚗𝚐 𝚙𝚛𝚘𝚋𝚕𝚎𝚖-𝚜𝚘𝚕𝚟𝚒𝚗𝚐 𝚜𝚔𝚒𝚕𝚕𝚜 𝚝𝚑𝚛𝚘𝚞𝚐𝚑 𝙳𝚊𝚝𝚊 𝚂𝚝𝚛𝚞𝚌𝚝𝚞𝚛𝚎𝚜 & 𝙰𝚕𝚐𝚘𝚛𝚒𝚝𝚑𝚖𝚜. 𝙸 𝚎𝚗𝚓𝚘𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚗𝚎𝚠 𝚝𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜 𝚊𝚗𝚍 𝚊𝚙𝚙𝚕𝚢𝚒𝚗𝚐 𝚝𝚑𝚎𝚖 𝚝𝚘 𝚛𝚎𝚊𝚕-𝚠𝚘𝚛𝚕𝚍 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜.
+![CareGPT Image](https://raw.githubusercontent.com/WangRongsheng/CareGPT/refs/heads/main/assets/images/hx.png)
+
+## 📅「 𝖢𝖮𝖭𝖳𝖱𝖨𝖡𝖴𝖳𝖨𝖮𝖭 𝖲𝖳𝖠𝖳𝖲 」 ❯❯❯❯
+![GitHub Contributions](https://github-contribution-stats.vercel.app/api/?username=legitankit)
+
+## 💻「 𝖲𝖪𝖨𝖫𝖫𝖲 & 𝖳𝖤𝖢𝖧𝖭𝖮𝖫𝖮𝖦𝖨𝖤𝖲 」 ❯❯❯❯
+- 🌐 Full Stack Web Development  
+- 🧠 Learning & practicing DSA  
+- 🛠 Building projects to strengthen concepts  
+- 📈 Constantly upgrading my skills  
+
+## 📈「 𝖠𝖢𝖳𝖨𝖵𝖨𝖳𝖸 𝖦𝖱𝖠𝖯𝖧 」❯❯❯❯
+[![Ankit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=legitankit&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## 🍀「 𝖢𝖮𝖱𝖤 𝖤𝖭𝖳𝖧𝖴𝖲𝖨𝖠𝖲𝖳𝖨𝖢𝖲 」 ❯❯❯❯
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend:** Node.js (learning & exploring)  
+- **Programming:** C++
+- **Tools:** Git, GitHub  
+
+## 🎯 CLS -「 𝖢𝖴𝖱𝖱𝖤𝖭𝖳 𝖫𝖤𝖠𝖱𝖭𝖨𝖭𝖦 𝖲𝖳𝖠𝖳𝖴𝖲 」 ❯❯❯❯
+- Advanced JavaScript & Backend Development  
+- Data Structures & Algorithms  
+- Writing clean, efficient, and scalable code  
+
+
+## 🌐「 𝖬𝖤𝖲 𝖱É𝖲𝖤𝖠𝖴𝖷 𝖲𝖮𝖢𝖨𝖠𝖴𝖷 : 」 ❯❯❯❯
+
+<div align="center">
+
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/legitankit)
+[![](https://img.shields.io/badge/Instagram-FF0066?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/legit.ankit)
+[![](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:chikupiku906@gmail.com)
+[![](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/legitankit)
+[![](https://img.shields.io/badge/CodePen-1e90ff?style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/legitankit)
+[![](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/legitankit)
+[![](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/legit_ankit)
+
+
+</div>
+
+
+## 📊「 𝖦𝖨𝖳𝖧𝖴𝖡 𝖲𝖳𝖠𝖳𝖲 」( Learning Phase ) ❯❯❯❯
+
+- 🔥 Current Streak: **1 day**
+- 🏆 Longest Streak: **1 day**
+- 🧮 Total Contributions: **0**
+- 🚀 Status: *Just Started & Consistent*
+
+![Current Streak](https://img.shields.io/badge/Current%20Streak-1%20day-brightgreen)
+![Longest Streak](https://img.shields.io/badge/Longest%20Streak-1%20day-blue)
+![Contributions](https://img.shields.io/badge/Contributions-0-lightgrey)
+
+<p align="center">
+  <!-- Typing Animation with multiple lines -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=a883f2&center=true&vCenter=true&width=500&lines=𓄂🅷🅴🅻🅻🅾+🆆🅾🆁🅻🅳!;𐌉+𐌀𐌌+𐌀𐌍𐌊𐌉𐌕+𓃭;I+αм+α+∂єνєℓσρєя𓅛" alt="Typing SVG" />
+</p>
+
+```text
+████████╗███████╗ ██████╗ ██╗  ██╗   ███████╗████████╗ █████╗  ██████╗██╗  ██╗
+╚══██╔══╝██╔════╝██╔════╝██║  ██║   ██╔════╝╚══██╔══╝██╔══██╗██╔════╝██║ ██╔╝
+   ██║   █████╗  ██║     ███████║   ███████╗   ██║   ███████║██║     █████╔╝ 
+   ██║   ██╔══╝  ██║     ██╔══██║   ╚════██║   ██║   ██╔══██║██║     ██╔═██╗ 
+   ██║   ███████╗╚██████╗██║  ██║   ███████║   ██║   ██║  ██║╚██████╗██║  ██╗
+   ╚═╝   ╚══════╝ ╚═════╝╚═╝  ╚═╝   ╚══════╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝
+```
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/tailwind_css-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Mamba UI](https://img.shields.io/badge/Mamba%20UI-111827?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ---
-[![](https://komarev.com/ghpvc/?username=legitankit&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=legitankit&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📝「 𝖯𝖱𝖮𝖥𝖨𝖫𝖤 𝖲𝖴𝖬𝖬𝖠𝖱𝖸 」 ❯❯❯❯
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=legitankit&theme=github_dark)
+![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=legitankit&theme=github_dark)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=legitankit&theme=github_dark)
+
+## 💬「 𝖣𝖤𝖵 𝖰𝖴𝖮𝖳𝖤 」 ❯❯❯❯
+![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<div align="center">
+   
+  ![snake gif](https://github.com/legitankit/legitankit/blob/output/github-snake.svg)
+</div>
+
+<!-- [game-name] -->
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/legitankit/legitankit/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/legitankit/legitankit/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/legitankit/legitankit/output/pacman-contribution-graph.svg">
+</picture>
+
+<p align="center"><b>😕 me after coding at 2 AM 💀 😵‍💫💻</b></p>
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="240"/>
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="214"/>
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="380"/>
+</p>
+
+<p align="center">
+  🚀 <b> BREAK TIME </b> ⏳🧠  
+  <br>
+  <em>take a break & play games 🎮✨</em>
+</p>
+
+<p align="center">
+  🔄🎮🔄
+</p>
+
+<p align="center">
+  <a href="https://legitankit.github.io/pacman/">
+    <img src="https://img.shields.io/badge/PLAY-PACMAN-yellow?style=for-the-badge" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://legitankit.github.io/Snake-JavaScript/">
+    <img src="https://img.shields.io/badge/PLAY-SNAKE-green?style=for-the-badge" />
+  </a>
+  &nbsp;&nbsp;
+<a href="https://legitankit.github.io/vanilla-js-tetris/">
+  <img src="https://img.shields.io/badge/PLAY-TETRIS-orange?style=for-the-badge" />
+</a>
+   &nbsp;&nbsp;
+  <a href="https://legitankit.github.io/Pinball/Pinball.htm">
+    <img src="https://img.shields.io/badge/PLAY-PINBALL-teal?style=for-the-badge" />
+  </a>
+</p>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Developer-006400?style=flat-square" />
+  <img src="https://img.shields.io/badge/-by-8B4513?style=flat-square" />
+  <img src="https://img.shields.io/badge/-♡-800080?style=flat-square" />
+</p>
+<p align="center">
+   legitankit-Github [AS] © 2026  | All rights reserved 
+</p>
+
